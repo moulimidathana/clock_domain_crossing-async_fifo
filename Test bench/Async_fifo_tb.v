@@ -1,4 +1,4 @@
-module fifo_tb;
+module async_fifo_tb;
 reg rd_clk=0;
 reg wr_clk=0;
 reg wr_en=0;
